@@ -3,4 +3,7 @@ searches/
 videos/
 venv/
 traces/
+cache/
+video_details/
 
+output_video_traces.temp
