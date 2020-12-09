@@ -6,4 +6,5 @@ traces/
 cache/
 video_details/
 
-output_video_traces.temp
+notebooks/output_video_traces.temp
+notebooks/output_video_details.temp
