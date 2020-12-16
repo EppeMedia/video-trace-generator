@@ -8,3 +8,4 @@ video_details/
 
 notebooks/output_video_traces.temp
 notebooks/output_video_details.temp
+notebooks/cache/found_video_ids.json
