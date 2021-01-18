@@ -5,6 +5,7 @@ venv/
 traces/
 cache/
 video_details/
+notebooks/output/
 
 notebooks/output_video_traces.temp
 notebooks/output_video_details.temp
